@@ -12,7 +12,7 @@ Ce projet consiste en un programme en langage C permettant la communication via 
 1. Clonez ce dépôt sur votre machine locale :
 
    ```
-   git clone https://github.com/AnisHanniz/SocketsUDP.git
+   git clone https://github.com/AnisHanniz/Sockets-UDP.git
    ```
 
 2. Accédez au répertoire du projet :
